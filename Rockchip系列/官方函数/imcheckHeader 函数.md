@@ -1,6 +1,6 @@
 
-```markdown
 # imcheckHeader 函数
+
 ## 功能
 校验当前使用的头文件版本与librga库版本的差异。
 
